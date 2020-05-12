@@ -1,4 +1,4 @@
-# Chat_App_Socket
+# Chat_App
 Peer to peer connectivity implemented via Socket Programming (Java) 
 
 Refer:  https://www.youtube.com/watch?v=CcLOj3uhb0A <br>
